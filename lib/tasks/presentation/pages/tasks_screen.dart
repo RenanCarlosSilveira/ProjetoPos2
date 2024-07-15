@@ -43,7 +43,7 @@ class _TasksScreenState extends State<TasksScreen> {
         child: Scaffold(
           backgroundColor: kWhiteColor,
           appBar: CustomAppBar(
-            title: 'TA-SKS',
+            title: 'TASKS',
             showBackArrow: false,
             actionWidgets: [
               PopupMenuButton<int>(
